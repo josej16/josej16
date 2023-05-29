@@ -8,12 +8,11 @@ Durante aproximadamente 5 meses, participé en el bootcamp de Soy Henry, donde m
 
 ## Experiencia y habilidades
 
-- Uso de Power BI para crear dashboards
+- Uso de Power BI
 - Manejo de Python y sus bibliotecas (pandas, numpy, matplotlib, etc.) para el análisis de datos
 - Experiencia en SQL, especialmente en MySQL
-- Desarrollo de proyectos de machine learning, como sistemas de recomendación basados en puntuaciones similares
+- Desarrollo de proyectos de machine learning, como sistemas de recomendación de peliculas basado en puntuaciones similares
 - Participación en proyectos educativos de data analytics, incluyendo la creación de KPIs y dashboards para evaluar el rendimiento de empresas
-- Experiencia como data analytics en un proyecto educativo para una aseguradora internacional, donde creé 4 KPIs y un dashboard
 
 ## Objetivo
 
